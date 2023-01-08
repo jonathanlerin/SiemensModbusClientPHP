@@ -1,7 +1,7 @@
 <?php
 
 /**
- * SiemensPlcModbusDecoder Copyright (c) 2023, 2023 Jonathan Lerin Lahuerta
+ * SiemensModbusClient Copyright (c) 2023, 2023 Jonathan Lerin Lahuerta
  *
  *
  * @author Jonathan Lerín Lahuerta
@@ -11,7 +11,7 @@
  */
 
 /**
- * SiemensPlcModbusDecoder
+ * SiemensModbusClient
  *
  * This class complement "Phpmodbus Copyright (c) 2004, 2012 Jan Krakora"
  * to decode succesfully data package send by plc siemens S7-1200 programed
